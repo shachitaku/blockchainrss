@@ -1,0 +1,36 @@
+PODS:
+  - PageMenu (2.0.0)
+  - PromiseKit (6.7.0):
+    - PromiseKit/CorePromise (= 6.7.0)
+    - PromiseKit/Foundation (= 6.7.0)
+    - PromiseKit/UIKit (= 6.7.0)
+  - PromiseKit/CorePromise (6.7.0)
+  - PromiseKit/Foundation (6.7.0):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.7.0):
+    - PromiseKit/CorePromise
+  - SVProgressHUD (2.2.5)
+  - XLPagerTabStrip (8.1.0)
+
+DEPENDENCIES:
+  - PageMenu
+  - PromiseKit (~> 6.0)
+  - SVProgressHUD
+  - XLPagerTabStrip (~> 8.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PageMenu
+    - PromiseKit
+    - SVProgressHUD
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
+  PromiseKit: 453ddcc947fe7b302f3ef41882b81d31c554df7f
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  XLPagerTabStrip: 22d4c58200d7c105e0e407ab6bfd01a5d85014be
+
+PODFILE CHECKSUM: 32615dfc4530c629960be21629effec57f777eb4
+
+COCOAPODS: 1.5.3
